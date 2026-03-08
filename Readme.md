@@ -1,11 +1,15 @@
 Titanic-DataScience-Project
+
 Titanic Survival Prediction - Data Science Mini Project
+
 Project Overview
+
 This project analyzes the Titanic dataset to predict whether a passenger survived or not using machine learning techniques. The dataset contains passenger details such as age, gender, ticket class, fare, and other attributes.
 
 The objective of this project is to apply data preprocessing, exploratory data analysis, and machine learning models to build a predictive model.
 
 Dataset
+
 The dataset contains 891 passenger records with the following important features:
 
 PassengerId
@@ -54,4 +58,5 @@ The analysis shows that features such as passenger class, gender, age, and fare 
 
 Author
 Adil Shaikh
+
 
