@@ -108,4 +108,5 @@ Machine learning techniques were successfully applied to predict passenger survi
 ## Author
 
 **Adil Shaikh**
+
 Data Science Mini Project
